@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubham yadav
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning something beyond imagination
 - 💞️ I’m looking to collaborate on software field
 - 📫 How to reach me shubhamyadav2110@gmail.com
 
